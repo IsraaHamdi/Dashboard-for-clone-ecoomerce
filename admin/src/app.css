@@ -1,0 +1,61 @@
+.link {
+    text-decoration: none;
+    color: inherit;
+}
+
+.active {
+    background-color: rgb(240, 240, 255);
+}
+
+.sidebarIcon {
+    margin-right: 10px;
+    font-size: 20px;
+}
+
+.featuredIcon {
+    font-size: 14px;
+    margin-left: 5px;
+    color: green;
+}
+
+.featuredIcon.negative {
+    color: red;
+}
+
+.widgetSmIcon {
+    font-size: 16px !important;
+    margin-right: 5px;
+}
+
+.approved {
+    background-color: #e5faf2;
+    color: #3bb077;
+}
+
+.declined {
+    background-color: #fff0f1;
+    color: #d95087;
+}
+
+.pending {
+    background-color: #ebf1fe;
+    color: #2a7ade;
+}
+
+.userListDelete {
+    color: red;
+    cursor: pointer;
+}
+
+.userShowIcon{
+    font-size: 16px !important;
+}
+
+.userUpdateIcon{
+    cursor: pointer;
+}
+
+.productListDelete {
+    color: red;
+    cursor: pointer;
+};
